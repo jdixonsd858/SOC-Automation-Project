@@ -4,7 +4,7 @@
 
 The Telemtry Lab project aimed to create a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system and Sysmon for generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
-### Skills Learned
+### Skills Learned 
 
 - Creation and configuration of Virtual Machines.
 - Understanding of SIEM concepts and practical application.
