@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective  this (SOC) automation project is to show how to integrate a powerful a suite of open-source tools: Wazuh will serve as the primary host-based security monitoring and endpoint detection and response (EDR) platform, providing real-time alerts and security event data. This data will be ingested by The Hive, which will function as the central, collaborative Security Incident Response Platform. Then Shuffle will be used as an orchestrator that will automate security tasks, or 'playbooks,' triggered by alerts from Wazuh via The Hive. A key deliverable of this automation is the capability to create and send automated emails for high-severity alerts, ensuring immediate, reliable notification of relevant stakeholders without manual intervention, thereby reducing the mean time to detect (MTTD) and mean time to respond (MTTR) to security incidents.
+The objective of the (SOC) automation project is to show how to integrate a suite of open-source tools: Wazuh will serve as the primary host-based security monitoring and endpoint detection and response (EDR) platform, providing real-time alerts and security event data. This data will be ingested by The Hive, which will function as the central, collaborative Security Incident Response Platform. Then Shuffle will be used as an orchestrator that will automate security tasks, or 'playbooks,' triggered by alerts from Wazuh via The Hive. A key deliverable of this automation is the capability to create and send automated emails for high-severity alerts, ensuring immediate, reliable notification of relevant stakeholders without manual intervention, thereby reducing the mean time to detect (MTTD) and mean time to respond (MTTR) to security incidents.
 
 ### Skills Learned 
 
@@ -19,8 +19,8 @@ The objective  this (SOC) automation project is to show how to integrate a power
 - Sysmon 
 - Vultr to create two servers (Wazuh and The Hive).
 - Wazuh as a SIEM and EDR Tool.
-- The Hive as a Incident Platform.
-- Powershell to configure Wazuh, Elasticsearch, and The Hive
+- The Hive as an Incident Platform.
+- Powershell to configure Wazuh, Elasticsearch, and The Hive.
 - Telemetry generation tools to create realistic endpoint detection.
 - Shuffler.io for workflow automation and configure email notification.
 
